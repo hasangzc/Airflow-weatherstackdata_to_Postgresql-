@@ -11,7 +11,10 @@ An end-to-end data pipeline was created in this project
 * Python
 * Airflow
 
+
+
 Data Pipeline;
+
 <img src="api_to_db.png" width=700 height=200>
 
 
