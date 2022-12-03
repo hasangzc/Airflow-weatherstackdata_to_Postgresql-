@@ -1,0 +1,2 @@
+city_name,country_name,timezone_id,local_time,observation_time,temperature,weather_descriptions
+Istanbul,Turkey,Europe/Istanbul,2022-12-03 23:39,08:39 PM,10,['Partly cloudy']
