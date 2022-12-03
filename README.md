@@ -1,4 +1,4 @@
-# DataPipeline-with-Airflow
+### About The Project
 A pipeline built with Airflow that retrieves data using weatherstack's api, transforms it, and loads it into postgresql
 
 
