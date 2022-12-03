@@ -1,5 +1,6 @@
 ### About The Project
-A pipeline built with Airflow that retrieves data using weatherstack's api, transforms it, and loads it into postgresql
+An end-to-end data pipeline was created in this project
 
-
+Data Source: Free api provided by the website(`https://weatherstack.com`) was used
+ 
 <img src="api_to_db.png" width=700 height=200>
